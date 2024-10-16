@@ -1,0 +1,1 @@
+# 22_Zeichenkette_Einführung
