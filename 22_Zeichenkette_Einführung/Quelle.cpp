@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
 	int iAlter = 0;
-	string strVorname = "";
-	string strNachname = "";
+	string strVorname = "dfd";
+	string strNachname = "fdfd";
 	string strVorNachname = "";
 	string strWhiteSpace = " ";
 	//Ein- und Ausgabe einer Zeichenkette
